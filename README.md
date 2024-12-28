@@ -1,4 +1,5 @@
 Sign Language Detection Model 🤟
+
 This project is a real-time sign language detection system that recognizes alphabets using live video capture. It leverages advanced techniques in machine learning, deep learning, and computer vision to enable efficient and accurate detection.
 
 Features
