@@ -33,7 +33,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/sign-language-detection.git  
+git clone https://github.com/Kiissshhhh/Sign-Language-Detection-Model.git
 Install dependencies:
 
 bash
